@@ -10,8 +10,21 @@ public class Git_AndroidTest_1 extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);	
+		
 		Log.v("sriram", "frist commit");	
 		Log.v("Upendra", "first commit");
+		
+		Log.v("sriram", "frist commit");	
+		Log.v("Upendra", "first commit");
+		
+		Log.v("sriram", "frist commit");	
+		Log.v("Upendra", "first commit");
+		
+		
+		
+		Log.v("sriram", "second commit");	
+		
+		
 		
 	}
 
