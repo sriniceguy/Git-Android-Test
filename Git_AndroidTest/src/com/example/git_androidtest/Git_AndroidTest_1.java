@@ -22,6 +22,14 @@ public class Git_AndroidTest_1 extends Activity {
 		
 		
 		Log.v("sriram", "frist commit");	
+		
+		
+		
+		
+		
+		Log.v("sriram", "frist commit");	
+		Log.v("Upendra", "first commit");
+		
 		Log.v("Upendra", "first commit");
 		
 		
